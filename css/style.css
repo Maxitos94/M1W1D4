@@ -182,7 +182,7 @@ h1 {
 }
 
 .bottmon-main{
-    flex: 1 1 100%;
+    flex: 0 1 100%;
     object-fit: cover;
     width: 100%;
 }
