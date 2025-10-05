@@ -148,7 +148,7 @@ h1 {
 }
 
 .product{
-    width: 45%;
+    flex: 0 0 45%;
     display: flex;
     flex-direction: column;
     align-items: center;
