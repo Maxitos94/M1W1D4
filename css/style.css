@@ -154,6 +154,15 @@ h1 {
     align-items: center;
 }
 
+.new{position: relative;}
+
+.badge-new{
+    position: absolute;
+    width: 30%;
+    left: 0;
+    top: 0;
+}
+
 .card-img {
     width: 100%;
     object-fit: cover;
@@ -172,7 +181,7 @@ h1 {
     cursor: pointer;
 }
 
-#img-bottom-main{
+#img-main-bottom{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -181,7 +190,7 @@ h1 {
     text-align: center;
 }
 
-.bottmon-main{
+.img-bottom{
     flex: 0 1 100%;
     object-fit: cover;
     width: 100%;
